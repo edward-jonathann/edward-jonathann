@@ -18,14 +18,6 @@ I'm a **Data Science enthusiast** transitioning from Project Management and Busi
 
 ---
 
-## 💼 Career Summary
-
-- GTM Specialist – OPPO Indonesia (2023–2024)  
-- Project Manager – JD.ID (2020–2023)  
-- Business Development – JD.ID (2019–2020)  
-
----
-
 ## 🧠 Technical Skills
 
 **Languages**: Python, SQL  
